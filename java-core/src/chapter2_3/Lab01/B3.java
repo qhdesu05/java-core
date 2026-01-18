@@ -1,4 +1,4 @@
-package chapter2.Lab01;
+package chapter2_3.Lab01;
 
 import java.util.Scanner;
 

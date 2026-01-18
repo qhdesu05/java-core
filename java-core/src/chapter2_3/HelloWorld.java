@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2_3;
 import java.util.Scanner;
 public class HelloWorld {
     public static void main(String[] args) {
